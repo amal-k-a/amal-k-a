@@ -4,12 +4,16 @@
 
 ---
 
-![Welcome Banner](https://media.giphy.com/media/13k4VSc3ngLPUY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/13k4VSc3ngLPUY/giphy.gif" alt="Welcome Banner" width="600px" />
+</p>
+
+---
 
 ## 🌟 About Me
-> "Merging the worlds of creativity and technology, one step at a time!"
+> _"Merging the worlds of creativity and technology, one step at a time!"_
 
-Hi! I'm Amal, a student with a passion for blending **technical expertise** with **artistic creativity**. I have a strong foundation in programming and analytics, coupled with a love for **art and design**. I'm diving into **UI/UX design**, **Deep Learning**, and **Machine Learning** to expand my creative and technical horizons.
+Hi! I'm **Amal**, a student with a passion for blending **technical expertise** with **artistic creativity**. I have a strong foundation in **programming** and **analytics**, coupled with a love for **art and design**. I'm diving into **UI/UX design**, **Deep Learning**, and **Machine Learning** to expand my creative and technical horizons.
 
 ---
 
@@ -24,32 +28,46 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
 
 ---
 
-## 🎨 Creativity & Design
-- **Drawing & Digital Art**: I love expressing my ideas visually.
-- **UI/UX Design**: Exploring tools like Figma and Adobe XD for creating user-friendly designs.
-- **Wireframing & Prototyping**: Combining art with functionality.
-
----
-
-## 📚 What I’m Learning
-- **UI/UX Design**: To merge my artistic creativity with technology.
-- **Deep Learning & Machine Learning**: Diving into AI to solve real-world problems.
-
----
-
-
-## 📊 GitHub Stats
+## 🏆 My GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amal-k-a&show_icons=true&theme=radical" alt="Amal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-k-a&theme=radical" alt="Amal's GitHub Streak Stats" />
+  <a href="https://github.com/amal-k-a">
+    <img src="https://github-profile-trophy.vercel.app/?username=amal-k-a&theme=radical&no-frame=true&column=4" alt="GitHub Achievements" />
+  </a>
 </p>
 
 ---
 
-## 🎨 Fun Facts
-- 🎵 I enjoy listening to music while coding.
-- 🎲 I love solving logical puzzles and playing strategy games.
-- 🖌️ I often sketch ideas on paper before implementing them digitally.
+## 🎨 Creativity & Design
+- 🎨 **Drawing & Digital Art**: Expressing ideas visually is my passion.
+- 💡 **UI/UX Design**: Exploring tools like Figma and Adobe XD to create user-friendly designs.
+- 🛠️ **Wireframing & Prototyping**: Combining creativity with functionality to create seamless user experiences.
+
+---
+
+## 📚 What I’m Learning
+- 🖌️ **UI/UX Design**: Merging my artistic creativity with technology.
+- 🤖 **Deep Learning & Machine Learning**: Exploring AI to tackle real-world challenges.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-k-a&show_icons=true&theme=radical" alt="Amal's GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-k-a&theme=radical" alt="Amal's GitHub Streak Stats" width="400px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-k-a&layout=compact&theme=radical" alt="Top Languages" width="400px" />
+</p>
+
+---
+
+## 🎨 Fun Facts About Me
+- 🎵 I love listening to music while coding—it keeps me in the zone!
+- 🧩 I enjoy solving logical puzzles and playing strategy games.
+- ✏️ I often sketch ideas on paper before implementing them digitally.
+
+---
 
 ## 🌐 Let's Connect!
 <p align="center">
