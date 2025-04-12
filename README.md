@@ -56,7 +56,7 @@
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AmalK-blue?style=flat-square)](https://linkedin.com/in/amalk)
-[![Instagram](https://img.shields.io/badge/Instagram-@amal_artist_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agztn_)
+[![Instagram](https://img.shields.io/badge/Instagram-@agztn_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agztn_)
 
 ---
 
