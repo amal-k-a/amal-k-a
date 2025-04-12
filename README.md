@@ -4,46 +4,52 @@
 
 ---
 
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Amal's+GitHub+Profile)
+![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ## 🌟 About Me
-- 🖌️ **Artist at Heart**: I love expressing creativity through drawing and art.
-- 💻 **Tech Explorer**: Passionate about programming and exploring cutting-edge fields like Machine Learning and Deep Learning.
-- 🎯 **Currently Learning**: UI/UX Designing to merge creativity with technology.
-- 🌱 **Languages I Know**: 
-  - **C**
-  - **Java**
-  - **VB.NET**
-  - **SQL**
-  - **Python** 🐍
+> "Merging the worlds of creativity and technology, one step at a time!"
+
+Hi! I'm Amal, a student with a passion for blending **technical expertise** with **artistic creativity**. I have a strong foundation in programming and analytics, coupled with a love for **art and design**. I'm diving into **UI/UX design**, **Deep Learning**, and **Machine Learning** to expand my creative and technical horizons.
 
 ---
 
-## 🛠️ Skills & Tools
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 🎨 Creativity
-- Drawing 🖌️
-- Digital Art 🖼️
-- Wireframing & Prototyping (in-progress)
+## 🚀 My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 What I’m Working On
-- 🔭 Enhancing my skills in **UI/UX Design**.
-- 📚 Exploring advanced **Deep Learning** and **Machine Learning** concepts.
-- 🌐 Building projects that combine Python and SQL to solve real-world problems.
+## 🎨 Creativity & Design
+- **Drawing & Digital Art**: I love expressing my ideas visually.
+- **UI/UX Design**: Exploring tools like Figma and Adobe XD for creating user-friendly designs.
+- **Wireframing & Prototyping**: Combining art with functionality.
+
+---
+
+## 📚 What I’m Learning
+- **UI/UX Design**: To merge my artistic creativity with technology.
+- **Deep Learning & Machine Learning**: Diving into AI to solve real-world problems.
+
+---
+
+## 🛠️ Featured Projects
+Here are some of the projects I'm proud of:
+- 🎨 [Art Portfolio Website](#): A showcase of my artwork and design skills.
+- 🧠 [Deep Learning Experiments](#): Exploring neural networks and AI algorithms.
+- 📊 [SQL-based Analytics Dashboard](#): A project to analyze and visualize data using SQL and Python.
 
 ---
 
 ## 📊 GitHub Stats
-![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-k-a&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-k-a&layout=compact)](https://github.com/amal-k-a)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-k-a&show_icons=true&theme=radical" alt="Amal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-k-a&theme=radical" alt="Amal's GitHub Streak Stats" />
+</p>
 
 ---
 
@@ -55,10 +61,8 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmalK-blue?style=flat-square)](https://linkedin.com/in/amalk)
-[![Instagram](https://img.shields.io/badge/Instagram-@agztn_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agztn_)
-[![Email](https://img.shields.io/badge/Email-amalka927@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amalka927@gmail.com)
-
----
-
-✨ **"Merging the worlds of creativity and technology, one step at a time!"** ✨
+<p align="center">
+  <a href="https://linkedin.com/in/amalk"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://instagram.com/agztn_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:amalka927@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
