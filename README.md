@@ -4,7 +4,7 @@
 
 ---
 
-![Welcome Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/KD7Ud1K84wAWg/giphy.gif)
 
 ## 🌟 About Me
 > "Merging the worlds of creativity and technology, one step at a time!"
