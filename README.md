@@ -14,14 +14,15 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
 ---
 
 ## 🚀 My Tech Stack
+
+### 🖥 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="VB.NET" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
 </p>
-
 
 ### 🛠 Tools & Frameworks
 <p align="center">
@@ -29,8 +30,8 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
   <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
 
 ### 🌐 Web Development
 <p align="center">
@@ -38,6 +39,7 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
+
 
 ---
 
