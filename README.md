@@ -37,13 +37,6 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
 
 ---
 
-## 🛠️ Featured Projects
-Here are some of the projects I'm proud of:
-- 🎨 [Art Portfolio Website](#): A showcase of my artwork and design skills.
-- 🧠 [Deep Learning Experiments](#): Exploring neural networks and AI algorithms.
-- 📊 [SQL-based Analytics Dashboard](#): A project to analyze and visualize data using SQL and Python.
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
