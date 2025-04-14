@@ -1,10 +1,12 @@
+![d463f24b0e1f3f1ce6680d601c97e6a0](https://github.com/user-attachments/assets/0b368f1b-21bd-456d-ba6f-daf73e5f3b62)
 # Hi there, I'm Amal 👋
 
 🎓 **BCA with Analytics Student** | 🎨 **Artist & Aspiring UI/UX Designer** | 🤖 **Deep Learning Enthusiast**
 
 ---
 
-![Welcome Banner](https://media.giphy.com/media/13k4VSc3ngLPUY/giphy.gif)
+![Welcome Banner](https://github.com/user-attachments/assets/ddbc0ca3-0a7e-44bc-9388-995cf6510b3a)
+
 
 ## 🌟 About Me
 > "Merging the worlds of creativity and technology, one step at a time!"
