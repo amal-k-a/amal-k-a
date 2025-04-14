@@ -81,7 +81,7 @@ Hi! I'm Amal, a student with a passion for blending **technical expertise** with
 
 ## 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/amalk" target="_blank">
+  <a href="https://linkedin.com/in/amal-k-a-b6a79a282" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/agztn_" target="_blank">
